@@ -6,11 +6,16 @@ h1{
     height:350px;
     
     
-}
-img{
-    text-align: center;
-}
+} 
 body{
     background-color: black;
     color:white;
+} 
+.background{
+    background-color: white;
+    color:black;
+}
+.airplane{
+    height:500px; 
+    
 }
